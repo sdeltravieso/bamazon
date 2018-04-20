@@ -18,6 +18,6 @@
 
 ![](images/Database-after-order.JPG)
 
-<h3>This shows what happens if you try to order more than what's available in stock. I'm trying to order 7 drills, but there are only 5 in stock.</h3>
+<h3>This shows what happens if you try to order more than what's available in stock. I'm trying to order 7 drills, but there are only 5 in stock. The app shows the inventory again and allows the user to try the order again.</h3>
 
 ![](images/Insufficient-Quantity.JPG)
