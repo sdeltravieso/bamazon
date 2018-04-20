@@ -2,18 +2,22 @@
 
 # Images in ReadMe
 
-<h3>Database before running app</h3>
+<h3>Database before running app. Notice Item 7, Paintbrush. The quantity in stock is 17</h3>
 
-![](workingimages/Starting-Database.JPG)
+![](images/Starting-Database.JPG)
 
-<h3>spotify-this-song</h3>
+<h3>Showing inventory after starting app</h3>
 
-![](workingImages/spotify-this-song.JPG)
+![](images/Inventory.JPG)
 
-<h3>movie-this</h3>
+<h3>Placing an order for quantity 3 of the Paintbrush</h3>
 
-![](workingImages/movie-this.JPG)
+![](images/Order-Placed.JPG)
 
-<h3>do-what-it-says</h3>
+<h3>Database after placing order. Notice the the paintbrush quantity has decreased by 3 to 14.</h3>
 
-![](workingImages/do-what-it-says.JPG)
+![](images/Database-after-order.JPG)
+
+<h3>This shows what happens if you try to order more than what's available in stock. I'm trying to order 7 drills, but there are only 5 in stock.</h3>
+
+![](images/Insufficient-Quantity.JPG)
